@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: INFOFIX_COMPUTERS
+Build-Jdk: 20.0.2
+Implementation-Title: ExampleProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.exampleproject
+Implementation-URL: https://spring.io/projects/spring-boot/ExampleProjec
+ t
+Created-By: Maven Integration for Eclipse
+
